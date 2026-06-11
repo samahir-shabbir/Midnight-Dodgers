@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="CarDodgingGame.vcxproj" Id="069d104e-cbc3-4283-ba55-8b7be5c106e9" />
-</Solution>
