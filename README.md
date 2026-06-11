@@ -11,12 +11,13 @@ A simple 2D arcade-style game developed in C++ using SFML. The player controls a
 - Pause and resume functionality<br>
 - Safe mode after collisions<br>
 - Multiple game states<br>
-<br>
-## Source Code<br>
+
+## Source Code
 <br>
 The complete source code is available in the **source-code** branch.<br>
 <br>
-### To View the Implementation<br>
+
+## To View the Implementation
 <br>
 1. Open the branch selector.<br>
 2. Select **source-code**.<br>
