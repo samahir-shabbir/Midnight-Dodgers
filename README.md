@@ -20,7 +20,7 @@
 **Midnight Dodgers** is a simple 2D arcade-style game developed in **C++** using **SFML**. The player controls a car and avoids enemy vehicles while scoring points. The game includes multiple screens such as a welcome screen, instructions screen, gameplay screen, pause menu, safe mode, and game over screen.
 
 <div align="center">
-<img src="CarDodgingGame2026-06-1219-35-20-ezgif.com-video-to-gif-converter.gif/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtuZ2J2Z3Z6cnFhMHN1d2tla2VlZmJlNHJ1MnBoeWxhbmJqdjBqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKz8nx1V2qoTrOq/giphy.gif" width="400" alt="Arcade Driving Animation"/>
 
 </div>
 
@@ -44,7 +44,7 @@
 ## 🕹️ Gameplay Preview
 
 <div align="center">
-<img src="CarDodgingGame2026-06-1219-35-20-ezgif.com-video-to-gif-converter.gif/>
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZpbHV4eXp4ZWplYTJ1ZHdkaWZ4eHJ4cnNlcGZ2ejZ4dnFmaWcyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="Game Over Animation](https://raw.githubusercontent.com/samahir-shabbir/Midnight-Dodgers/Source-code/CarDodgingGame2026-06-1219-35-20-ezgif.com-video-to-gif-converter.gif)"/>
 </div>
 
 > 💡 **Tip:** Record a short clip of your game using OBS Studio, convert it to a GIF (using [ezgif.com](https://ezgif.com/video-to-gif)), upload it to your repo, and replace the placeholder GIF links above with your actual gameplay clip for the best effect!
