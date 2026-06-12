@@ -54,12 +54,3 @@ The complete source code is available in the **`source-code`** branch.
 
 The full project report is available in this repository as **`Project_Report.pdf`**.
 
----
-
-<div align="center">
-
-### ⭐ If you like this project, give it a star!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
-</div>
