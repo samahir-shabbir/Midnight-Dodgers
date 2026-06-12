@@ -44,7 +44,7 @@
 ## 🕹️ Gameplay Preview
 
 <div align="center">
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZpbHV4eXp4ZWplYTJ1ZHdkaWZ4eHJ4cnNlcGZ2ejZ4dnFmaWcyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="Game Over Animation](https://raw.githubusercontent.com/samahir-shabbir/Midnight-Dodgers/Source-code/CarDodgingGame2026-06-1219-35-20-ezgif.com-video-to-gif-converter.gif)"/>
+![Gameplay Demo](https://raw.githubusercontent.com/samahir-shabbir/Midnight-Dodgers/Source-code/CarDodgingGame2026-06-1219-35-20-ezgif.com-video-to-gif-converter.gif)
 </div>
 
 > 💡 **Tip:** Record a short clip of your game using OBS Studio, convert it to a GIF (using [ezgif.com](https://ezgif.com/video-to-gif)), upload it to your repo, and replace the placeholder GIF links above with your actual gameplay clip for the best effect!
