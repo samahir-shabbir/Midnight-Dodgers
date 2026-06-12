@@ -33,7 +33,7 @@
 
 <div align="center">
 
-![Gameplay Demo](https://raw.githubusercontent.com/samahir-shabbir/Midnight-Dodgers/Source-code/CarDodgingGame2026-06-1219-35-20-ezgif.com-video-to-gif-converter.gif)
+![Gameplay Demo](https://github.com/samahir-shabbir/Midnight-Dodgers/blob/Source-code/CarDodgingGame2026-06-1219-35-20-ezgif.com-optimize.gif)
 
 </div>
 
