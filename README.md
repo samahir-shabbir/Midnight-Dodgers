@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Midnight%20Dodgers&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20Retro%202D%20Car%20Dodging%20Game%20in%20C%2B%2B%20%26%20SFML&descAlignY=55&descSize=18" width="100%"/>
+# 🌃 Midnight Dodgers
+
+### A Retro 2D Car Dodging Game in C++ & SFML
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A100FF&center=true&vCenter=true&width=600&lines=Dodge+the+Traffic...;Survive+the+Night...;Beat+Your+High+Score!" alt="Typing SVG" />
 
@@ -33,7 +35,7 @@
 
 <div align="center">
 
-![Gameplay Demo](https://github.com/samahir-shabbir/Midnight-Dodgers/blob/Source-code/CarDodgingGame2026-06-1219-35-20-ezgif.com-optimize.gif)
+![Gameplay Demo](https://raw.githubusercontent.com/samahir-shabbir/Midnight-Dodgers/Source-code/CarDodgingGame2026-06-1219-35-20-ezgif.com-optimize.gif)
 
 </div>
 
@@ -53,4 +55,3 @@ The complete source code is available in the **`source-code`** branch.
 ## 📄 Project Report
 
 The full project report is available in this repository as **`Project_Report.pdf`**.
-
