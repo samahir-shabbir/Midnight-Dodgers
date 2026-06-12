@@ -22,7 +22,6 @@
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtuZ2J2Z3Z6cnFhMHN1d2tla2VlZmJlNHJ1MnBoeWxhbmJqdjBqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKz8nx1V2qoTrOq/giphy.gif" width="400" alt="Arcade Driving Animation"/>
 
-<sub>*(Replace this GIF with actual gameplay footage of Midnight Dodgers!)*</sub>
 </div>
 
 ---
