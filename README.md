@@ -5,7 +5,7 @@ This branch contains the complete source code and assets for the Midnight-Dodger
 ## Requirements
 
 - Visual Studio 2022 or later
-- SFML Library
+- SFML Version 2.6.2
 - Windows Operating System
 
 ## Project Structure
